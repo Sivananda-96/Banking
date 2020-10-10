@@ -1,0 +1,98 @@
+body{
+         margin: 0;
+	 padding: 0;
+	 background:url(7.jpg);
+	 background-size: cover;
+	 background-position: center;
+	 font-family: sans-serif;
+	 height:800px;
+}
+.simple-form{
+	padding: 0px 100px;
+   text-align: center;	
+   margin: 0px 200px;
+   
+}
+#register{
+		width: 120%;
+		background-color: #051019;
+		opacity: 0.8;
+		padding: 50px 0px;
+		
+}
+#button{
+		width: 250px;
+		padding: 10px;
+		border-radius: 10px;
+		outline: 0px;
+}
+#ph{
+	width: 50px;
+		padding: 10px;
+		border-radius: 10px;
+			outline: 0px;
+}
+#phone{
+		width: 200px;
+		padding: 10px;
+		border-radius: 10px;
+			outline: 0px;
+}
+#rd{
+	margin-left: -100px;
+}
+#but{
+	color: white;
+	font-size: 18px;
+	
+}
+#butt{
+	width: 200px;
+		padding: 10px;
+		border-radius: 10px;
+			outline: 0px;
+			background-color: #0c6996;
+			border: 2px solid #01010c;
+			color: aliceblue;
+			font-size: 18px;
+}
+#h1{
+	color: white;
+	font-size: 20px;
+}
+
+#butt:hover
+{
+	cursor: pointer;
+	background:  #0000gg;
+	color: #000;
+}
+#te
+{
+	font:bold;
+	text size 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
